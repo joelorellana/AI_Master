@@ -1,0 +1,64 @@
+Solution found!
+Actual search time: 0.100002s [t=0.113155s]
+cargar tren puerto v1 contenedor1 e1 (1)
+cargar tren puerto v2 contenedor2 e2 (1)
+cargar tren puerto v3 contenedor3 e3 (1)
+cargar tren puerto v4 contenedor4 e4 (1)
+cargar tren puerto v5 contenedor5 e5 (1)
+cargar tren puerto v6 contenedor6 e6 (1)
+cargar tren puerto v7 contenedor7 e7 (1)
+cargar tren puerto v8 contenedor8 e8 (1)
+mover puerto almacen tren (1)
+mover almacen fabrica1 tren (1)
+descargar tren fabrica1 v1 contenedor1 e1f1 (1)
+cargar tren fabrica1 v1 contenedor1 e1f1 (1)
+descargar tren fabrica1 v2 contenedor2 e1f1 (1)
+cargar tren fabrica1 v2 contenedor2 e1f1 (1)
+mover fabrica1 almacen tren (1)
+descargar tren almacen v1 contenedor1 e1a (1)
+descargar tren almacen v2 contenedor2 e1a (1)
+mover almacen fabrica1 tren (1)
+descargar tren fabrica1 v3 contenedor3 e1f1 (1)
+cargar tren fabrica1 v1 contenedor3 e1f1 (1)
+descargar tren fabrica1 v4 contenedor4 e1f1 (1)
+cargar tren fabrica1 v2 contenedor4 e1f1 (1)
+mover fabrica1 almacen tren (1)
+descargar tren almacen v1 contenedor3 e1a (1)
+descargar tren almacen v2 contenedor4 e1a (1)
+mover almacen fabrica1 tren (1)
+descargar tren fabrica1 v5 contenedor5 e1f1 (1)
+cargar tren fabrica1 v1 contenedor5 e1f1 (1)
+descargar tren fabrica1 v6 contenedor6 e1f1 (1)
+cargar tren fabrica1 v2 contenedor6 e1f1 (1)
+mover fabrica1 almacen tren (1)
+descargar tren almacen v1 contenedor5 e1a (1)
+descargar tren almacen v2 contenedor6 e1a (1)
+mover almacen fabrica1 tren (1)
+descargar tren fabrica1 v7 contenedor7 e1f1 (1)
+cargar tren fabrica1 v1 contenedor7 e1f1 (1)
+descargar tren fabrica1 v8 contenedor8 e1f1 (1)
+cargar tren fabrica1 v2 contenedor8 e1f1 (1)
+mover fabrica1 almacen tren (1)
+descargar tren almacen v1 contenedor7 e1a (1)
+descargar tren almacen v2 contenedor8 e1a (1)
+Plan length: 41 step(s).
+Plan cost: 41
+Expanded 165 state(s).
+Reopened 0 state(s).
+Evaluated 1956 state(s).
+Evaluations: 2120
+Generated 2070 state(s).
+Dead ends: 0 state(s).
+Number of registered states: 1956
+Int hash set load factor: 1956/2048 = 0.955078
+Int hash set resizes: 11
+Search time: 0.100002s
+Total time: 0.113155s
+Solution found.
+Peak memory: 7872 KB
+exitcode: 0
+
+remaining time: 1790.66
+config 22: relative time 28, remaining 724
+g bound: infinity
+

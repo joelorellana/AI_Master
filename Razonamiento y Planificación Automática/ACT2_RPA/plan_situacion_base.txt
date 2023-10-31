@@ -1,0 +1,71 @@
+Solution found!
+Actual search time: 0.0600017s [t=0.0757556s]
+cargar tren puerto v1 contenedor1 e1 (1)
+cargar tren puerto v2 contenedor2 e2 (1)
+cargar tren puerto v3 contenedor3 e3 (1)
+cargar tren puerto v4 contenedor4 e4 (1)
+mover puerto fabrica2 tren (1)
+descargar tren fabrica2 v2 contenedor2 e1f2 (1)
+cargar tren fabrica2 v2 contenedor2 e1f2 (1)
+descargar tren fabrica2 v3 contenedor3 e1f2 (1)
+cargar tren fabrica2 v3 contenedor3 e1f2 (1)
+descargar tren fabrica2 v4 contenedor4 e1f2 (1)
+cargar tren fabrica2 v4 contenedor4 e1f2 (1)
+descargar tren fabrica2 v1 contenedor1 e1f2 (1)
+mover fabrica2 puerto tren (1)
+cargar tren puerto v1 contenedor5 e5 (1)
+mover puerto fabrica2 tren (1)
+descargar tren fabrica2 v1 contenedor5 e2f2 (1)
+mover fabrica2 puerto tren (1)
+cargar tren puerto v1 contenedor6 e6 (1)
+mover puerto fabrica2 tren (1)
+descargar tren fabrica2 v1 contenedor6 e3f2 (1)
+cargar tren fabrica2 v1 contenedor1 e1f2 (1)
+mover fabrica2 puerto tren (1)
+mover puerto almacen tren (1)
+descargar tren almacen v1 contenedor1 e1a (1)
+descargar tren almacen v2 contenedor2 e1a (1)
+descargar tren almacen v3 contenedor3 e1a (1)
+descargar tren almacen v4 contenedor4 e1a (1)
+mover almacen puerto tren (1)
+cargar tren puerto v1 contenedor7 e7 (1)
+cargar tren puerto v2 contenedor8 e8 (1)
+mover puerto fabrica2 tren (1)
+cargar tren fabrica2 v3 contenedor5 e2f2 (1)
+cargar tren fabrica2 v4 contenedor6 e3f2 (1)
+mover fabrica2 fabrica1 tren (1)
+mover fabrica1 almacen tren (1)
+descargar tren almacen v3 contenedor5 e1a (1)
+descargar tren almacen v4 contenedor6 e1a (1)
+mover almacen fabrica1 tren (1)
+descargar tren fabrica1 v1 contenedor7 e1f1 (1)
+cargar tren fabrica1 v1 contenedor7 e1f1 (1)
+mover fabrica1 almacen tren (1)
+descargar tren almacen v1 contenedor7 e1a (1)
+mover almacen fabrica1 tren (1)
+descargar tren fabrica1 v2 contenedor8 e1f1 (1)
+cargar tren fabrica1 v1 contenedor8 e1f1 (1)
+mover fabrica1 almacen tren (1)
+descargar tren almacen v1 contenedor8 e1a (1)
+Plan length: 47 step(s).
+Plan cost: 47
+Expanded 261 state(s).
+Reopened 0 state(s).
+Evaluated 1681 state(s).
+Evaluations: 3882
+Generated 1912 state(s).
+Dead ends: 0 state(s).
+Number of registered states: 1681
+Int hash set load factor: 1681/2048 = 0.820801
+Int hash set resizes: 11
+Search time: 0.0600017s
+Total time: 0.0757556s
+Solution found.
+Peak memory: 6680 KB
+exitcode: 0
+
+remaining time: 1799.53
+config 4: relative time 23, remaining 1338
+g bound: infinity
+next plan number: 1
+
